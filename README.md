@@ -1,7 +1,7 @@
 ## PORTOFOLIO PIAAA
 This is my personal website which contains about my profile, photos, links,social media..
 
-Features
+## Features
 -About Me: This page should give a brief bio and share our personal story.
 
 -Portfolio: Use this page to showcase the work we've done. Each project should include a description, what we have learned or achieved from it, and any relevant visuals.
@@ -12,7 +12,7 @@ Features
 
 -login : Login to enter the website
 
-Links
+## Links
 -Figma: https:https://www.figma.com/design/UXgi8wXFSU15lls9NDshtw/Untitled?node-id=0-1&t=nBQc81HZVQXJ9xhc-0
 
 -Website: http://silviaaa.my.id
