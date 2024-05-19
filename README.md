@@ -25,6 +25,6 @@ Social Media Profiles:
 
 https://wa.me/085722912782
 
-https://ig.me/anandaafeb
+https://www.instagram.com/anandaaafeb?igsh=dGdwOXJzcnBhaGpl&utm_source=qr
 
-https:https://maps.app.goo.gl/pRAcwutV9TCQsqWc8
+https://maps.app.goo.gl/pRAcwutV9TCQsqWc8
